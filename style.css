@@ -1,0 +1,37 @@
+body{
+    background-color: orange;
+}
+
+h1{color:green
+}
+
+button{
+    visibility: hidden;
+}
+
+.navbar{
+    max-height: 50px;
+}
+
+.navbar{
+    background-color: ivory;
+    font-size: 25px;
+}
+
+.dropdown-item{
+    color: green;
+}
+
+.container{
+    margin: 50px;
+    width: 500px;
+    height: 500px;
+} 
+
+.sidebar{
+    width: 400px;
+    height: 400px;
+}
+
+
+
